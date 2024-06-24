@@ -1,7 +1,6 @@
 """
 Project Name: P1: Yondu Udonta
 Author: Cody Behling
-Due Date: 09/19/2020
 Course: CS1400-X01
 
 This program is supposed to help divide up the shares of plunder to Yondu Udonta and Peter Quill's crew.
